@@ -3,4 +3,4 @@ A repository to store packages written for PyQt5. Some simple but easy-to-use fu
 
 
 ## Basic Frame
-A basic frame example along with some common functions has been added to [Codes](https://github.com/ChihchaoMao/python-GUI/tree/main/Codes).
+A basic frame example along with some common functions, named *LabelAndLineEdit*  has been added to [Codes](https://github.com/ChihchaoMao/python-GUI/tree/main/Codes).
